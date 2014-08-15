@@ -4,7 +4,7 @@
 // @description Auto Like Facebook by prrantikk@gmail.com - Marzukh Ahmed Prantik. Auto Like status, wall and facebook comments system uses delay timer that allows you to control the speed of access and prevents blocking of the account.
 // @author Prantik
 // @homepageURL https://www.facebook.com/prrantikk
-// @updateURL
+// @updateURL https://github.com/prrantikk/Autolike-facebook-status-and-comments/raw/master/Auto%20Like%20Facebook%20Status.user.js
 // @license Creative Commons
 // @icon http://i.imgur.com/dxTURT4.png
 // @icon64 http://i.imgur.com/dxTURT4.png
