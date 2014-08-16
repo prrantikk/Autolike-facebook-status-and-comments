@@ -14,6 +14,7 @@
 // @exclude htt*://www.facebook.com/advertising/*
 // @exclude htt*://www.facebook.com/ai.php*
 // @exclude htt*://www.facebook.com/ajax/*
+// @exclude htt*://*prrantikk*
 // @exclude htt*://www.facebook.com/bookmarks/*
 // @exclude htt*://www.facebook.com/ci_partner/*
 // @exclude htt*://www.facebook.com/common/blank.html
